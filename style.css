@@ -269,21 +269,18 @@ p {
     }
 
     .hero-section {
-        padding-top: 12%;
-    }
-
-    h2 {
-        font-size: 45px;
-        margin: 5% 0;
+        padding-top: 5rem;
     }
 
     h3 {
         font-size: 35px;
+        margin-top: 4rem;
     }
 
     p {
         font-size: 20px;
     }
+    
 }
 
 /* WHO WE ARE */
@@ -478,7 +475,9 @@ span {
 
     .vision h3 {
         font-size: 30px;
+        padding-top: 4rem
     }
+
 
     .vision p {
         font-size: 18px;
